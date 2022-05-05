@@ -20,7 +20,7 @@ C# | ⭐
 SQL | ⭐
 
 ### Projects I have worked on
-- [EasyAdmin](https://github.com/Blumlaut/EasyAdmin)
+- [EasyAdmin](https://github.com/Blumlaut/EasyAdmin), open source FiveM Administration Menu by [Blumlaut](https://github.com/Blumlaut)
    - Contributed 14 merged PR's
    - Added multiple new features
    - Fixed multiple bugs
