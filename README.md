@@ -1,16 +1,26 @@
-### Hi there 👋
+### About Me
+- Likes beans
+- Enjoys long walks in the electronics store
+- Drinks multiple monsters a day
+- Crippling social anxiety
+- Code sometimes
 
-<!--
-**coleminer0112/coleminer0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice
 
-Here are some ideas to get you started:
+|Language|Proficiency|
+|---|---|
+Lua | ⭐⭐⭐
+Javascript | ⭐⭐
+Python | ⭐⭐
+HTML | ⭐
+CSS | ⭐
+C++ | ⭐
+C# | ⭐
+SQL | ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I have worked on
+- [EasyAdmin](https://github.com/Blumlaut/EasyAdmin)
+   - Contributed 14 merged PR's
+   - Added multiple new features
+   - Fixed multiple bugs
