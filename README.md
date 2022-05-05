@@ -24,3 +24,7 @@ SQL | ⭐
    - Contributed 14 merged PR's
    - Added multiple new features
    - Fixed multiple bugs
+- Retired Head of Script Development at [San Andreas County Roleplay](https://forums.sacrp.co/index.php)
+   - Added dozens of new features to Server
+   - Created a plethora of resources only found at SACRP (Private)
+   - 1-1/2 years cumulatively served as Head Script Developer
