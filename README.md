@@ -24,6 +24,10 @@ SQL | ⭐
    - Contributed 14 merged PR's
    - Added multiple new features
    - Fixed multiple bugs
+- [Badger_Discord_API](https://github.com/JaredScar/Badger_Discord_API), open source FiveM Discord API by [JaredScar](https://github.com/JaredScar)
+   - Contributed 10 merged commits
+   - Added new features
+   - Fixed bugs
 - Retired Head of Script Development at [San Andreas County Roleplay](https://forums.sacrp.co/index.php)
    - Added dozens of new features to Server
    - Created a plethora of resources only found at SACRP (Private)
